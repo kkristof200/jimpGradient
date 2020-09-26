@@ -22,6 +22,6 @@
     },
     "author": "Kristóf-Attila Kovács",
     "name": "jimp-gradient",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "Create gradient images via Jimp"
 }
